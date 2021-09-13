@@ -1,2 +1,4 @@
+github.com/snapbuy/go-gpt3 v0.0.0-20210910012652-d6aaa9e69d9e h1:jMc2sSMEwdnAONuPPgSDBTYKDZpSscItbdrKJ6/GphM=
+github.com/snapbuy/go-gpt3 v0.0.0-20210910012652-d6aaa9e69d9e/go.mod h1:/zIaYdW1svot2s81uPF0Iy1gd8Mwo/cjB5E/hbTh0aY=
 github.com/tuckersGo/musthaveGo/ch16/expkg v0.0.0-20210326184309-0b8449949b02 h1:tLe29x2+Oqil2k5Zbo+oeCBO5HL2JxQ/4d/nROTcLkQ=
 github.com/tuckersGo/musthaveGo/ch16/expkg v0.0.0-20210326184309-0b8449949b02/go.mod h1:o12FpIqEJes/Y7CWE9BJemI9VUTQBsH7t3wYlDCw3Fw=
